@@ -1,0 +1,117 @@
+.home {
+    background-image: url("./mages/page\ 1\ background.jpg");
+    background-size: initial;
+    background-repeat: no-repeat;
+}
+.home ul li {
+    display: inline-block;
+    padding-top: 80px;
+    padding-right: 30px;
+}
+.one > ul > li{
+    font-size: 30px;
+    padding-right: 40px;
+    text-shadow:3px 1px 5px rgb(31, 146, 31);
+}
+.one > ul > li:hover{
+color: greenyellow;
+background: black;
+padding-top: 2px;
+}
+.home > p{
+    color: rgb(99, 99, 243);
+    text-shadow: 3px 5px 5px black;
+    padding-top: 30px;
+    text-indent: 90px;
+    font-size: x-large;  
+}
+.home > h1{
+    font-family: fantasy;
+    color: white;
+    text-shadow:2px 3px 5px rgb(16, 16, 207);
+    text-indent: 180px;
+    font-size: 80px;
+    padding-bottom: 60pxs;
+}
+.home > h3{
+    padding-bottom: 360px;
+    text-align: 60px;
+    text-indent: 10px;
+    color: white;
+}
+.gallery{
+    background-image: url("./mages/water.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.gallery > h1{
+    color: white;
+    background-color: blue;
+    border: 1px black;
+    padding-right: 0;
+    box-shadow: 3px 5px 5px black;
+}
+.gallery > p{
+    font-size: x-large;
+    text-indent: 7px;
+    padding-top: 10px;
+}
+.gallery > img{
+    padding-right: 15px;
+    padding-bottom: 40px;
+    padding-top: 30px;
+}
+.about {
+     background-image: url("./mages/bck.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about > h1{
+    color: white;
+    border: 1px black;
+    background-color: blue;
+    padding-right: 0;
+    box-shadow: 3px 5px 5px black;
+}
+.about > p{
+    text-align: center;
+}
+.about > li{
+    text-indent: 30px;
+    font-family: fantasy;
+    color: white;
+    font-size: 30px;
+}
+.about > h5{
+    text-indent: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.about > h4{
+    text-indent: 3px;
+}
+.about > img{
+    padding-right: 30px;
+}
+.contact{
+    background-image: url("./mages/best-backgrounds-9.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contact > h1{
+    color: white;
+    background-color: blue;
+    border: 1px black;
+    padding-right: 0;
+    box-shadow: 3px 5px 5px black;
+}
+.contact > p{
+    color: white;
+    text-align: center;
+    font-size: x-large;
+}
+footer{
+    text-align: center;
+    color: white;
+    text-shadow: 3px 4px 5px black;
+    padding-top: 30px;
+}
